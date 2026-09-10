@@ -1,0 +1,29 @@
+{
+  "status": "PASS_C05_SAFETY_SEMANTICS_AND_OFFLINE_REPAIR_COMPLETE_USER_REVIEW_PENDING",
+  "api_calls": 0,
+  "original_one_shot_preserved": true,
+  "repair_is_post_review": true,
+  "changed_items": 22,
+  "changed_by_category": {
+    "A3": 18,
+    "U4": 1,
+    "S4": 1,
+    "S5": 2
+  },
+  "newly_deterministic_from_original_api_path": 18,
+  "legacy_metric_regressions": 0,
+  "old_claim_coverage": 0.9216666666666666,
+  "new_replay_claim_coverage": 0.93,
+  "old_invariant": 0.88,
+  "new_replay_invariant": 0.8933333333333333,
+  "old_polarity_correct": 64,
+  "new_polarity_correct": 69,
+  "polarity_n": 69,
+  "known_critical_failures_fixed_in_replay": 7,
+  "mutation_suite_pass": 276,
+  "mutation_suite_total": 276,
+  "new_api_experiment_required": false,
+  "reason_no_api": "Repair changes only deterministic routing/rule outputs; unchanged RAG branch outputs can be reused exactly for offline replay. No model/prompt/retrieval parameter changes were made.",
+  "scientific_warning": "Do not report 0/300 critical failures. The seven previously identified failures are closed in post-review replay; undiscovered failures are not ruled out.",
+  "title": "KEEP CURRENT TITLE WITH OPERATIONAL SAFETY DEFINITION"
+}

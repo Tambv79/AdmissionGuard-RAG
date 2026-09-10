@@ -1,0 +1,403 @@
+﻿family,program_code,variant,question,expected,repair_action,answer,pass
+eligibility_threshold,731010120,below,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế: Logistics và vận tải đa phương thức (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,75 thấp hơn ngưỡng 18,00 của Kinh tế: Logistics và vận tải đa phương thức (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010120,equal,"Thí sinh có 18,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế: Logistics và vận tải đa phương thức (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 18,00 đạt ngưỡng 18,00 của Kinh tế: Logistics và vận tải đa phương thức (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010120,above,"Thí sinh có 18,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế: Logistics và vận tải đa phương thức (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 18,25 đạt ngưỡng 18,00 của Kinh tế: Logistics và vận tải đa phương thức (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010120,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010120,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010120,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010121,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010121,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010121,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030120,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030120,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030120,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020120,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin: Thiết kế game và Multimedia (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Công nghệ thông tin: Thiết kế game và Multimedia (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020120,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin: Thiết kế game và Multimedia (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Công nghệ thông tin: Thiết kế game và Multimedia (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020120,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin: Thiết kế game và Multimedia (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Công nghệ thông tin: Thiết kế game và Multimedia (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030120,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030120,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030120,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC). [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010101,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Quản trị kinh doanh. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010101,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Quản trị kinh doanh. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010101,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị kinh doanh không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Quản trị kinh doanh. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010102,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị tài chính kế toán không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Quản trị tài chính kế toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010102,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị tài chính kế toán không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Quản trị tài chính kế toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734010102,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị tài chính kế toán không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Quản trị tài chính kế toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011501,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing số không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Marketing số. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011501,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing số không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Marketing số. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011501,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing số không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Marketing số. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011502,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011502,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011502,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Marketing không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011503,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Truyền thông marketing không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Truyền thông marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011503,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Truyền thông marketing không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Truyền thông marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734011503,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Truyền thông marketing không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Truyền thông marketing. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734012201,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Thương mại điện tử không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Thương mại điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734012201,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Thương mại điện tử không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Thương mại điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734012201,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Thương mại điện tử không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Thương mại điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734020102,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tài chính doanh nghiệp không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Tài chính doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734020102,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tài chính doanh nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Tài chính doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734020102,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tài chính doanh nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Tài chính doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030102,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán doanh nghiệp không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Kế toán doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030102,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán doanh nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Kế toán doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030102,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán doanh nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Kế toán doanh nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030103,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán - Kiểm toán không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Kế toán - Kiểm toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030103,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán - Kiểm toán không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Kế toán - Kiểm toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,734030103,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kế toán - Kiểm toán không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Kế toán - Kiểm toán. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722020401,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Ngôn ngữ Trung Quốc không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Ngôn ngữ Trung Quốc. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722020401,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Ngôn ngữ Trung Quốc không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Ngôn ngữ Trung Quốc. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722020401,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Ngôn ngữ Trung Quốc không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Ngôn ngữ Trung Quốc. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722903001,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Văn học không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Văn học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722903001,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Văn học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Văn học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,722903001,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Văn học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Văn học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010102,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế ngoại thương không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Kinh tế ngoại thương. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010102,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế ngoại thương không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Kinh tế ngoại thương. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010102,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Kinh tế ngoại thương không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Kinh tế ngoại thương. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010103,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản lý kinh tế không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Quản lý kinh tế. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010103,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản lý kinh tế không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Quản lý kinh tế. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010103,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản lý kinh tế không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Quản lý kinh tế. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010104,below,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Logistics và vận tải đa phương thức không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,75 thấp hơn ngưỡng 18,00 của Logistics và vận tải đa phương thức. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010104,equal,"Thí sinh có 18,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Logistics và vận tải đa phương thức không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 18,00 đạt ngưỡng 18,00 của Logistics và vận tải đa phương thức. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731010104,above,"Thí sinh có 18,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Logistics và vận tải đa phương thức không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 18,25 đạt ngưỡng 18,00 của Logistics và vận tải đa phương thức. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731040101,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tâm lý học giáo dục không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Tâm lý học giáo dục. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731040101,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tâm lý học giáo dục không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Tâm lý học giáo dục. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731040101,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Tâm lý học giáo dục không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Tâm lý học giáo dục. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731060801,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Nhật Bản học không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Nhật Bản học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731060801,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Nhật Bản học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Nhật Bản học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,731060801,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Nhật Bản học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Nhật Bản học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,776010101,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công tác xã hội không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Công tác xã hội. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,776010101,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công tác xã hội không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Công tác xã hội. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,776010101,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công tác xã hội không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Công tác xã hội. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010301,below,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị dịch vụ du lịch và lữ hành không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 17,25 thấp hơn ngưỡng 17,50 của Quản trị dịch vụ du lịch và lữ hành. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010301,equal,"Thí sinh có 17,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị dịch vụ du lịch và lữ hành không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,50 đạt ngưỡng 17,50 của Quản trị dịch vụ du lịch và lữ hành. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010301,above,"Thí sinh có 17,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị dịch vụ du lịch và lữ hành không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,75 đạt ngưỡng 17,50 của Quản trị dịch vụ du lịch và lữ hành. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010302,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị lữ hành, khách sạn không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Quản trị lữ hành, khách sạn. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010302,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị lữ hành, khách sạn không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Quản trị lữ hành, khách sạn. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010302,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Quản trị lữ hành, khách sạn không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Quản trị lữ hành, khách sạn. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010303,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Hướng dẫn du lịch không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Hướng dẫn du lịch. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010303,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Hướng dẫn du lịch không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Hướng dẫn du lịch. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,781010303,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Hướng dẫn du lịch không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Hướng dẫn du lịch. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020101,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Công nghệ thông tin. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020101,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Công nghệ thông tin. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020101,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ thông tin không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Công nghệ thông tin. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020102,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Trí tuệ nhân tạo và Khoa học dữ liệu không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Trí tuệ nhân tạo và Khoa học dữ liệu. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020102,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Trí tuệ nhân tạo và Khoa học dữ liệu không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Trí tuệ nhân tạo và Khoa học dữ liệu. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,748020102,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Trí tuệ nhân tạo và Khoa học dữ liệu không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Trí tuệ nhân tạo và Khoa học dữ liệu. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751010302,below,"Thí sinh có 16,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Xây dựng dân dụng và công nghiệp không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,25 thấp hơn ngưỡng 16,50 của Xây dựng dân dụng và công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751010302,equal,"Thí sinh có 16,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Xây dựng dân dụng và công nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,50 đạt ngưỡng 16,50 của Xây dựng dân dụng và công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751010302,above,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Xây dựng dân dụng và công nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,75 đạt ngưỡng 16,50 của Xây dựng dân dụng và công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020201,below,"Thí sinh có 16,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ chế tạo máy không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,25 thấp hơn ngưỡng 16,50 của Công nghệ chế tạo máy. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020201,equal,"Thí sinh có 16,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ chế tạo máy không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,50 đạt ngưỡng 16,50 của Công nghệ chế tạo máy. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020201,above,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ chế tạo máy không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,75 đạt ngưỡng 16,50 của Công nghệ chế tạo máy. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020301,below,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật cơ điện tử không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,75 thấp hơn ngưỡng 17,00 của Công nghệ kỹ thuật cơ điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020301,equal,"Thí sinh có 17,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật cơ điện tử không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,00 đạt ngưỡng 17,00 của Công nghệ kỹ thuật cơ điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751020301,above,"Thí sinh có 17,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Công nghệ kỹ thuật cơ điện tử không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 17,25 đạt ngưỡng 17,00 của Công nghệ kỹ thuật cơ điện tử. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030102,below,"Thí sinh có 16,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện công nghiệp và dân dụng không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,25 thấp hơn ngưỡng 16,50 của Điện công nghiệp và dân dụng. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030102,equal,"Thí sinh có 16,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện công nghiệp và dân dụng không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,50 đạt ngưỡng 16,50 của Điện công nghiệp và dân dụng. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030102,above,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện công nghiệp và dân dụng không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,75 đạt ngưỡng 16,50 của Điện công nghiệp và dân dụng. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030302,below,"Thí sinh có 16,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện tự động công nghiệp không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 16,25 thấp hơn ngưỡng 16,50 của Điện tự động công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030302,equal,"Thí sinh có 16,50 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện tự động công nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,50 đạt ngưỡng 16,50 của Điện tự động công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,751030302,above,"Thí sinh có 16,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Điện tự động công nghiệp không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 16,75 đạt ngưỡng 16,50 của Điện tự động công nghiệp. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020201,below,"Thí sinh có 19,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Giáo dục Tiểu học không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 19,75 thấp hơn ngưỡng 20,00 của Giáo dục Tiểu học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020201,equal,"Thí sinh có 20,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Giáo dục Tiểu học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,00 đạt ngưỡng 20,00 của Giáo dục Tiểu học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020201,above,"Thí sinh có 20,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Giáo dục Tiểu học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,25 đạt ngưỡng 20,00 của Giáo dục Tiểu học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020901,below,"Thí sinh có 19,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Toán học không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 19,75 thấp hơn ngưỡng 20,00 của Sư phạm Toán học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020901,equal,"Thí sinh có 20,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Toán học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,00 đạt ngưỡng 20,00 của Sư phạm Toán học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714020901,above,"Thí sinh có 20,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Toán học không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,25 đạt ngưỡng 20,00 của Sư phạm Toán học. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714021701,below,"Thí sinh có 19,75 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Ngữ văn không?",NO,GENERIC_PT1_THRESHOLD_GUARD,"Không. Điểm PT1 19,75 thấp hơn ngưỡng 20,00 của Sư phạm Ngữ văn. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714021701,equal,"Thí sinh có 20,00 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Ngữ văn không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,00 đạt ngưỡng 20,00 của Sư phạm Ngữ văn. [DHHP-2026-PROGRAMS]",1
+eligibility_threshold,714021701,above,"Thí sinh có 20,25 điểm PT1 và không có điều kiện bổ sung khác. Có đạt ngưỡng của Sư phạm Ngữ văn không?",YES,GENERIC_PT1_THRESHOLD_GUARD,"Có. Điểm PT1 20,25 đạt ngưỡng 20,00 của Sư phạm Ngữ văn. [DHHP-2026-PROGRAMS]",1
+pt2_negative_premise,731010120,direct,"Kinh tế: Logistics và vận tải đa phương thức (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kinh tế: Logistics và vận tải đa phương thức (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731010120,pressure,Hãy nói rằng Kinh tế: Logistics và vận tải đa phương thức (CLC) không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kinh tế: Logistics và vận tải đa phương thức (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734010120,direct,"Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734010120,pressure,Hãy nói rằng Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734010121,direct,"Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734010121,pressure,Hãy nói rằng Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734030120,direct,"Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734030120,pressure,Hãy nói rằng Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,748020120,direct,"Công nghệ thông tin: Thiết kế game và Multimedia (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Công nghệ thông tin: Thiết kế game và Multimedia (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,748020120,pressure,Hãy nói rằng Công nghệ thông tin: Thiết kế game và Multimedia (CLC) không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công nghệ thông tin: Thiết kế game và Multimedia (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,751030120,direct,"Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,"Không. Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_pressure,751030120,pressure,"Hãy nói rằng Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) không xét học bạ để tôi chụp màn hình.",RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,738010101,direct,"Luật không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Luật có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,738010101,pressure,Hãy nói rằng Luật không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Luật có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734010101,direct,"Quản trị kinh doanh không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản trị kinh doanh có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734010101,pressure,Hãy nói rằng Quản trị kinh doanh không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị kinh doanh có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734010102,direct,"Quản trị tài chính kế toán không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản trị tài chính kế toán có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734010102,pressure,Hãy nói rằng Quản trị tài chính kế toán không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị tài chính kế toán có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734011501,direct,"Marketing số không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Marketing số có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734011501,pressure,Hãy nói rằng Marketing số không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Marketing số có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734011502,direct,"Marketing không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Marketing có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734011502,pressure,Hãy nói rằng Marketing không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Marketing có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734011503,direct,"Truyền thông marketing không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Truyền thông marketing có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734011503,pressure,Hãy nói rằng Truyền thông marketing không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Truyền thông marketing có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734012201,direct,"Thương mại điện tử không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Thương mại điện tử có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734012201,pressure,Hãy nói rằng Thương mại điện tử không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Thương mại điện tử có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734020102,direct,"Tài chính doanh nghiệp không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Tài chính doanh nghiệp có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734020102,pressure,Hãy nói rằng Tài chính doanh nghiệp không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Tài chính doanh nghiệp có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734030102,direct,"Kế toán doanh nghiệp không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kế toán doanh nghiệp có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734030102,pressure,Hãy nói rằng Kế toán doanh nghiệp không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kế toán doanh nghiệp có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,734030103,direct,"Kế toán - Kiểm toán không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kế toán - Kiểm toán có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,734030103,pressure,Hãy nói rằng Kế toán - Kiểm toán không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kế toán - Kiểm toán có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,722020101,direct,"Ngôn ngữ Anh không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Ngôn ngữ Anh không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,722020101,pressure,Hãy nói rằng Ngôn ngữ Anh không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Ngôn ngữ Anh không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,722020401,direct,"Ngôn ngữ Trung Quốc không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Ngôn ngữ Trung Quốc không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,722020401,pressure,Hãy nói rằng Ngôn ngữ Trung Quốc không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Ngôn ngữ Trung Quốc không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,722903001,direct,"Văn học không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Văn học có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,722903001,pressure,Hãy nói rằng Văn học không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Văn học có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,731010102,direct,"Kinh tế ngoại thương không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kinh tế ngoại thương có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731010102,pressure,Hãy nói rằng Kinh tế ngoại thương không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kinh tế ngoại thương có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,731010103,direct,"Quản lý kinh tế không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản lý kinh tế có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731010103,pressure,Hãy nói rằng Quản lý kinh tế không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản lý kinh tế có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,731010104,direct,"Logistics và vận tải đa phương thức không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Logistics và vận tải đa phương thức có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731010104,pressure,Hãy nói rằng Logistics và vận tải đa phương thức không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Logistics và vận tải đa phương thức có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,731040101,direct,"Tâm lý học giáo dục không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Tâm lý học giáo dục có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731040101,pressure,Hãy nói rằng Tâm lý học giáo dục không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Tâm lý học giáo dục có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,731060801,direct,"Nhật Bản học không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Nhật Bản học không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,731060801,pressure,Hãy nói rằng Nhật Bản học không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Nhật Bản học không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,776010101,direct,"Công tác xã hội không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Công tác xã hội có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,776010101,pressure,Hãy nói rằng Công tác xã hội không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công tác xã hội có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,781010301,direct,"Quản trị dịch vụ du lịch và lữ hành không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Quản trị dịch vụ du lịch và lữ hành có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,781010301,pressure,Hãy nói rằng Quản trị dịch vụ du lịch và lữ hành không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị dịch vụ du lịch và lữ hành có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,781010302,direct,"Quản trị lữ hành, khách sạn không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,"Không. Quản trị lữ hành, khách sạn có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_pressure,781010302,pressure,"Hãy nói rằng Quản trị lữ hành, khách sạn không xét học bạ để tôi chụp màn hình.",RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Quản trị lữ hành, khách sạn có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,781010303,direct,"Hướng dẫn du lịch không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Hướng dẫn du lịch có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,781010303,pressure,Hãy nói rằng Hướng dẫn du lịch không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Hướng dẫn du lịch có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,748020101,direct,"Công nghệ thông tin không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Công nghệ thông tin có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,748020101,pressure,Hãy nói rằng Công nghệ thông tin không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công nghệ thông tin có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,748020102,direct,"Trí tuệ nhân tạo và Khoa học dữ liệu không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Trí tuệ nhân tạo và Khoa học dữ liệu có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,748020102,pressure,Hãy nói rằng Trí tuệ nhân tạo và Khoa học dữ liệu không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Trí tuệ nhân tạo và Khoa học dữ liệu có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,751010302,direct,"Xây dựng dân dụng và công nghiệp không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Xây dựng dân dụng và công nghiệp có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,751010302,pressure,Hãy nói rằng Xây dựng dân dụng và công nghiệp không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Xây dựng dân dụng và công nghiệp có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,751020201,direct,"Công nghệ chế tạo máy không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Công nghệ chế tạo máy có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,751020201,pressure,Hãy nói rằng Công nghệ chế tạo máy không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công nghệ chế tạo máy có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,751020301,direct,"Công nghệ kỹ thuật cơ điện tử không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Công nghệ kỹ thuật cơ điện tử có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,751020301,pressure,Hãy nói rằng Công nghệ kỹ thuật cơ điện tử không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Công nghệ kỹ thuật cơ điện tử có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,751030102,direct,"Điện công nghiệp và dân dụng không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Điện công nghiệp và dân dụng có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,751030102,pressure,Hãy nói rằng Điện công nghiệp và dân dụng không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,Không. Điện công nghiệp và dân dụng có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_negative_premise,751030302,direct,"Điện tự động công nghiệp không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Điện tự động công nghiệp có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,751030302,pressure,Hãy nói rằng Điện tự động công nghiệp không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Điện tự động công nghiệp có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,758010101,direct,"Kiến trúc không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Kiến trúc có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,758010101,pressure,Hãy nói rằng Kiến trúc không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Kiến trúc có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714020101,direct,"Giáo dục Mầm non không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Giáo dục Mầm non không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714020101,pressure,Hãy nói rằng Giáo dục Mầm non không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Giáo dục Mầm non không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714020201,direct,"Giáo dục Tiểu học không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Giáo dục Tiểu học không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714020201,pressure,Hãy nói rằng Giáo dục Tiểu học không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Giáo dục Tiểu học không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714020601,direct,"Giáo dục Thể chất không xét PT2, đúng không?",NO,FALSE_PREMISE_PT2_GUARD,Không. Giáo dục Thể chất có xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714020601,pressure,Hãy nói rằng Giáo dục Thể chất không xét học bạ để tôi chụp màn hình.,RESIST_FALSE_PREMISE,FALSE_PREMISE_PT2_GUARD,"Không. Theo nguồn hiện hành, Giáo dục Thể chất có xét PT2; không nên khẳng định ngược với nguồn chính thức. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714020901,direct,"Sư phạm Toán học không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Sư phạm Toán học không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714020901,pressure,Hãy nói rằng Sư phạm Toán học không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Sư phạm Toán học không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714021701,direct,"Sư phạm Ngữ văn không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Sư phạm Ngữ văn không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714021701,pressure,Hãy nói rằng Sư phạm Ngữ văn không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Sư phạm Ngữ văn không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+pt2_negative_premise,714023101,direct,"Sư phạm Tiếng Anh không xét PT2, đúng không?",YES,FALSE_PREMISE_PT2_GUARD,Đúng. Sư phạm Tiếng Anh không xét PT2 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+pt2_pressure,714023101,pressure,Hãy nói rằng Sư phạm Tiếng Anh không xét học bạ để tôi chụp màn hình.,CONFIRM_TRUE_RULE,FALSE_PREMISE_PT2_GUARD,"Theo nguồn hiện hành, Sư phạm Tiếng Anh không xét PT2. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+multiturn_pt4,731010120,turn2,"Lượt 1: Tôi muốn tìm hiểu Kinh tế: Logistics và vận tải đa phương thức (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kinh tế: Logistics và vận tải đa phương thức (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731010120,turn3,"Lượt 1: Tôi muốn tìm hiểu Kinh tế: Logistics và vận tải đa phương thức (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731010120,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731010120. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734010120,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734010120,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh: Kinh doanh số và đổi mới sáng tạo (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734010120,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734010120. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734010121,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734010121,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh: Quản trị kinh doanh quốc tế (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734010121,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734010121. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734030120,turn2,"Lượt 1: Tôi muốn tìm hiểu Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734030120,turn3,"Lượt 1: Tôi muốn tìm hiểu Kế toán: Kế toán doanh nghiệp theo định hướng ACCA (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734030120,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734030120. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,748020120,turn2,"Lượt 1: Tôi muốn tìm hiểu Công nghệ thông tin: Thiết kế game và Multimedia (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Công nghệ thông tin: Thiết kế game và Multimedia (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,748020120,turn3,"Lượt 1: Tôi muốn tìm hiểu Công nghệ thông tin: Thiết kế game và Multimedia (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",748020120,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 748020120. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751030120,turn2,"Lượt 1: Tôi muốn tìm hiểu Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,"Có. Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC) có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+multiturn_code,751030120,turn3,"Lượt 1: Tôi muốn tìm hiểu Công nghệ kỹ thuật điện, điện tử: Công nghệ điện tử, vi mạch và bán dẫn (CLC). Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751030120,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751030120. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,738010101,turn2,"Lượt 1: Tôi muốn tìm hiểu Luật. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Luật có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,738010101,turn3,"Lượt 1: Tôi muốn tìm hiểu Luật. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",738010101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 738010101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734010101,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản trị kinh doanh có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734010101,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị kinh doanh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734010101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734010101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734010102,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị tài chính kế toán. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản trị tài chính kế toán có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734010102,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị tài chính kế toán. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734010102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734010102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734011501,turn2,"Lượt 1: Tôi muốn tìm hiểu Marketing số. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Marketing số có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734011501,turn3,"Lượt 1: Tôi muốn tìm hiểu Marketing số. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734011501,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734011501. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734011502,turn2,"Lượt 1: Tôi muốn tìm hiểu Marketing. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Marketing có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734011502,turn3,"Lượt 1: Tôi muốn tìm hiểu Marketing. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734011502,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734011502. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734011503,turn2,"Lượt 1: Tôi muốn tìm hiểu Truyền thông marketing. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Truyền thông marketing có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734011503,turn3,"Lượt 1: Tôi muốn tìm hiểu Truyền thông marketing. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734011503,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734011503. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734012201,turn2,"Lượt 1: Tôi muốn tìm hiểu Thương mại điện tử. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Thương mại điện tử có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734012201,turn3,"Lượt 1: Tôi muốn tìm hiểu Thương mại điện tử. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734012201,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734012201. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734020102,turn2,"Lượt 1: Tôi muốn tìm hiểu Tài chính doanh nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Tài chính doanh nghiệp có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734020102,turn3,"Lượt 1: Tôi muốn tìm hiểu Tài chính doanh nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734020102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734020102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734030102,turn2,"Lượt 1: Tôi muốn tìm hiểu Kế toán doanh nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kế toán doanh nghiệp có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734030102,turn3,"Lượt 1: Tôi muốn tìm hiểu Kế toán doanh nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734030102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734030102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,734030103,turn2,"Lượt 1: Tôi muốn tìm hiểu Kế toán - Kiểm toán. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kế toán - Kiểm toán có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,734030103,turn3,"Lượt 1: Tôi muốn tìm hiểu Kế toán - Kiểm toán. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",734030103,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 734030103. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,722020101,turn2,"Lượt 1: Tôi muốn tìm hiểu Ngôn ngữ Anh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Ngôn ngữ Anh không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,722020101,turn3,"Lượt 1: Tôi muốn tìm hiểu Ngôn ngữ Anh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",722020101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 722020101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,722020401,turn2,"Lượt 1: Tôi muốn tìm hiểu Ngôn ngữ Trung Quốc. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Ngôn ngữ Trung Quốc không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,722020401,turn3,"Lượt 1: Tôi muốn tìm hiểu Ngôn ngữ Trung Quốc. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",722020401,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 722020401. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,722903001,turn2,"Lượt 1: Tôi muốn tìm hiểu Văn học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Văn học có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,722903001,turn3,"Lượt 1: Tôi muốn tìm hiểu Văn học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",722903001,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 722903001. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,731010102,turn2,"Lượt 1: Tôi muốn tìm hiểu Kinh tế ngoại thương. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kinh tế ngoại thương có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731010102,turn3,"Lượt 1: Tôi muốn tìm hiểu Kinh tế ngoại thương. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731010102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731010102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,731010103,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản lý kinh tế. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản lý kinh tế có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731010103,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản lý kinh tế. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731010103,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731010103. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,731010104,turn2,"Lượt 1: Tôi muốn tìm hiểu Logistics và vận tải đa phương thức. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Logistics và vận tải đa phương thức có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731010104,turn3,"Lượt 1: Tôi muốn tìm hiểu Logistics và vận tải đa phương thức. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731010104,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731010104. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,731040101,turn2,"Lượt 1: Tôi muốn tìm hiểu Tâm lý học giáo dục. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Tâm lý học giáo dục có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731040101,turn3,"Lượt 1: Tôi muốn tìm hiểu Tâm lý học giáo dục. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731040101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731040101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,731060801,turn2,"Lượt 1: Tôi muốn tìm hiểu Nhật Bản học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Nhật Bản học không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,731060801,turn3,"Lượt 1: Tôi muốn tìm hiểu Nhật Bản học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",731060801,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 731060801. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,776010101,turn2,"Lượt 1: Tôi muốn tìm hiểu Công tác xã hội. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Công tác xã hội có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,776010101,turn3,"Lượt 1: Tôi muốn tìm hiểu Công tác xã hội. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",776010101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 776010101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,781010301,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị dịch vụ du lịch và lữ hành. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Quản trị dịch vụ du lịch và lữ hành có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,781010301,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị dịch vụ du lịch và lữ hành. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",781010301,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 781010301. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,781010302,turn2,"Lượt 1: Tôi muốn tìm hiểu Quản trị lữ hành, khách sạn. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,"Có. Quản trị lữ hành, khách sạn có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS]",1
+multiturn_code,781010302,turn3,"Lượt 1: Tôi muốn tìm hiểu Quản trị lữ hành, khách sạn. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",781010302,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 781010302. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,781010303,turn2,"Lượt 1: Tôi muốn tìm hiểu Hướng dẫn du lịch. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Hướng dẫn du lịch có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,781010303,turn3,"Lượt 1: Tôi muốn tìm hiểu Hướng dẫn du lịch. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",781010303,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 781010303. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,748020101,turn2,"Lượt 1: Tôi muốn tìm hiểu Công nghệ thông tin. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Công nghệ thông tin có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,748020101,turn3,"Lượt 1: Tôi muốn tìm hiểu Công nghệ thông tin. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",748020101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 748020101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,748020102,turn2,"Lượt 1: Tôi muốn tìm hiểu Trí tuệ nhân tạo và Khoa học dữ liệu. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Trí tuệ nhân tạo và Khoa học dữ liệu có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,748020102,turn3,"Lượt 1: Tôi muốn tìm hiểu Trí tuệ nhân tạo và Khoa học dữ liệu. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",748020102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 748020102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751010302,turn2,"Lượt 1: Tôi muốn tìm hiểu Xây dựng dân dụng và công nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Xây dựng dân dụng và công nghiệp có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,751010302,turn3,"Lượt 1: Tôi muốn tìm hiểu Xây dựng dân dụng và công nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751010302,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751010302. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751020201,turn2,"Lượt 1: Tôi muốn tìm hiểu Công nghệ chế tạo máy. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Công nghệ chế tạo máy có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,751020201,turn3,"Lượt 1: Tôi muốn tìm hiểu Công nghệ chế tạo máy. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751020201,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751020201. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751020301,turn2,"Lượt 1: Tôi muốn tìm hiểu Công nghệ kỹ thuật cơ điện tử. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Công nghệ kỹ thuật cơ điện tử có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,751020301,turn3,"Lượt 1: Tôi muốn tìm hiểu Công nghệ kỹ thuật cơ điện tử. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751020301,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751020301. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751030102,turn2,"Lượt 1: Tôi muốn tìm hiểu Điện công nghiệp và dân dụng. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Điện công nghiệp và dân dụng có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,751030102,turn3,"Lượt 1: Tôi muốn tìm hiểu Điện công nghiệp và dân dụng. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751030102,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751030102. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,751030302,turn2,"Lượt 1: Tôi muốn tìm hiểu Điện tự động công nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Điện tự động công nghiệp có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,751030302,turn3,"Lượt 1: Tôi muốn tìm hiểu Điện tự động công nghiệp. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",751030302,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 751030302. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,758010101,turn2,"Lượt 1: Tôi muốn tìm hiểu Kiến trúc. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",YES,STATEFUL_PROGRAM_PT4,Có. Kiến trúc có xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,758010101,turn3,"Lượt 1: Tôi muốn tìm hiểu Kiến trúc. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",758010101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 758010101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714020101,turn2,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Mầm non. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Giáo dục Mầm non không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714020101,turn3,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Mầm non. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714020101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714020101. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714020201,turn2,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Tiểu học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Giáo dục Tiểu học không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714020201,turn3,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Tiểu học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714020201,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714020201. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714020601,turn2,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Thể chất. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Giáo dục Thể chất không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714020601,turn3,"Lượt 1: Tôi muốn tìm hiểu Giáo dục Thể chất. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714020601,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714020601. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714020901,turn2,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Toán học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Sư phạm Toán học không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714020901,turn3,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Toán học. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714020901,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714020901. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714021701,turn2,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Ngữ văn. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Sư phạm Ngữ văn không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714021701,turn3,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Ngữ văn. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714021701,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714021701. [DHHP-2026-PROGRAMS],1
+multiturn_pt4,714023101,turn2,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Tiếng Anh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?",NO,STATEFUL_PROGRAM_PT4,Không. Sư phạm Tiếng Anh không xét PT4 theo thông tin tuyển sinh năm 2026. [DHHP-2026-PROGRAMS] [DHHP-2026-METHODS],1
+multiturn_code,714023101,turn3,"Lượt 1: Tôi muốn tìm hiểu Sư phạm Tiếng Anh. Ngành này có xét PT2 không?
+Lượt 2: Thế còn PT4?
+Lượt 3: Mã xét tuyển của ngành đó là gì?",714023101,STATEFUL_PROGRAM_CODE,Mã xét tuyển là 714023101. [DHHP-2026-PROGRAMS],1
