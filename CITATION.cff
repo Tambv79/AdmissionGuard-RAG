@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite the associated study."
+title: "AdmissionGuard-RAG Research Artifact"
+type: software
+authors:
+  - family-names: "Bui"
+    given-names: "Van-Tam"
+    orcid: "https://orcid.org/0009-0007-0064-266X"
+  - family-names: "Do"
+    given-names: "Thi Thanh Toan"
+repository-code: "https://github.com/Tambv79/AdmissionGuard-RAG"
+url: "https://github.com/Tambv79/AdmissionGuard-RAG"
+version: "RC2"
+date-released: "2026-09-10"
